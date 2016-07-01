@@ -6,17 +6,6 @@
 
 <link href="css/style.css" type="text/css" rel="stylesheet">
 <link href="css/custom.css" type="text/css" rel="stylesheet">
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-70949258-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
 </head>
 <body>
 
@@ -77,17 +66,6 @@ Is there any trouble in this site?<br> Please send to me E-mail : <a href="mailt
 
                 <hr>
 <br>
-<p>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Digital Dialogue2 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-9003385815295706"
-     data-ad-slot="2803925272"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</p>                                
 </div>            
 </td>
             </tr>       
